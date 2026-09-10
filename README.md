@@ -1,20 +1,19 @@
 # Halo, saya Treza 👋
 
-**Software Engineer | Mobile Developer | Exploring AI & Automation**
+**Software Engineer | Mobile & Backend Developer | AI Automation Enthusiast**
 
-Halo! Saya Treza, Software Engineer dari Indonesia yang fokus di pengembangan aplikasi mobile dan web. Saya suka membangun produk kecil yang beneran kepake — cepat di-*ship*, rapi secara engineering, dan gampang dirawat.
+Saya Treza, Software Engineer dari Indonesia yang berfokus pada pengembangan aplikasi mobile dan backend. Saya membangun produk yang fungsional, terstruktur, dan siap digunakan — dengan standar engineering yang rapi dan dokumentasi yang jelas.
 
-Saat ini saya banyak ngoprek di ekosistem **React Native + Expo**, dengan pendekatan modern: AI-assisted development untuk kecepatan, tapi tetap pegang fundamental (arsitektur, offline-first, database lokal, auth, dan build pipeline).
+Saat ini saya mendalami pengembangan aplikasi touring **Tikum** serta **clipping automation** — otomatisasi pemotongan dan distribusi konten berbasis AI.
 
 ---
 
 ### 🚀 Tentang Saya
 
-- 🔭 Lagi bangun **Warung POS** — aplikasi kasir mobile offline-first buat warung kecil
-- 🌱 Lagi dalemin **AI & AI Automation** — AI agents, workflow automation (n8n), integrasi OpenAI API
-- 🧠 Gaya kerja: **vibe coding yang profesional** — ship cepat pakai AI tools, tapi kode tetap bersih, terstruktur, dan terdokumentasi
-- 🛠️ Keseharian: TypeScript, React Native, Expo, Supabase, SQLite
-- ☕ Fun fact: ngoding dibantu AI, tapi debug tetap manual
+- 🔭 **Fokus saat ini:** mengembangkan aplikasi **Tikum** — platform touring dengan live tracking, room-based trip session, dan SOS alert real-time
+- 🌱 **Sedang didalami:** **clipping automation** — pipeline otomatis untuk memotong, mengolah, dan mendistribusikan konten video
+- 🧠 **Pendekatan kerja:** memanfaatkan AI tools untuk akselerasi development tanpa mengorbankan kualitas kode, arsitektur, dan dokumentasi
+- 🛠️ **Keseharian:** TypeScript, React Native, Expo, Laravel, PostgreSQL, MySQL
 
 ---
 
@@ -23,30 +22,29 @@ Saat ini saya banyak ngoprek di ekosistem **React Native + Expo**, dengan pendek
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![EAS Build](https://img.shields.io/badge/EAS_Build-000000?logo=expo&logoColor=white)
 
-**Currently exploring:** `AI Agents` · `n8n` · `OpenAI API` · `Automation Workflows`
+**Currently exploring:** `AI Agents` · `Clipping Automation` · `Realtime Systems` · `n8n`
 
 ---
 
 ### 📌 Featured Project
 
-#### 🏪 [Warung POS — Sistem Kasir Modern untuk Warung](https://github.com/trezaluginap/kasir-warung)
+#### 🏍️ [Tikum — Aplikasi Touring dengan Live Tracking & SOS Alert](https://github.com/trezaluginap/Tikum)
 
-Aplikasi kasir mobile offline-first untuk warung kecil: kasir cepat, kelola produk, riwayat transaksi, dan cetak struk 58mm.
+Aplikasi mobile untuk komunitas touring: buat room perjalanan, undang anggota via PIN, pantau posisi rombongan secara real-time di peta, dan kirim SOS alert saat darurat.
 
-- ⚡ Checkout cepat — quick-price, custom price, katalog + search, keranjang qty +/−
-- 📦 Product CRUD — kategori, search, soft delete, 16 produk default saat instalasi
-- 🧾 Riwayat + struk 58mm — detail transaksi, export PDF via `expo-print`
-- 🗄️ Offline-first — SQLite lokal (`warung_pos.db`), Supabase hanya untuk auth (username + PIN)
-- 🧱 Stack: Expo 54 · React Native 0.81 · expo-router · expo-sqlite · Supabase · Zustand
-
-> _More projects coming soon — lagi eksperimen AI automation di sela-sela ngoding mobile._
+- 🗺️ Live tracking — posisi anggota rombongan ter-update real-time via WebSocket (Laravel Reverb)
+- 🏠 Room & trip session — buat/gabung room dengan PIN, kelola anggota dan status perjalanan
+- 🆘 SOS alert — tombol darurat dengan broadcast ke seluruh anggota room
+- 📊 Riwayat & statistik — histori perjalanan dan statistik touring per pengguna
+- 🧱 Stack: Expo 54 · React Native · Laravel 13 API · PostgreSQL 17 · Redis · Reverb WebSocket · Docker
 
 ---
 
@@ -71,7 +69,7 @@ Aplikasi kasir mobile offline-first untuk warung kecil: kasir cepat, kelola prod
 
 Terbuka untuk kolaborasi di:
 - Aplikasi mobile (Expo / React Native)
-- Proyek AI & automation kecil (chatbot, workflow n8n, integrasi API)
-- Open source & eksperimen side-project
+- Backend API (Laravel, PostgreSQL/MySQL)
+- Proyek AI & automation (clipping automation, workflow n8n, integrasi API)
 
-Jangan ragu sapa lewat email atau LinkedIn. Mari bangun sesuatu yang kepake! 🚀
+Silakan hubungi saya melalui email atau LinkedIn. 🚀
