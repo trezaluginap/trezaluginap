@@ -57,11 +57,9 @@ Aplikasi mobile untuk komunitas touring: buat room perjalanan, undang anggota vi
 
 ### 📫 Kontak
 
-- 📧 Email: `YOUR_EMAIL`
-- 💼 LinkedIn: `YOUR_LINKEDIN`
-- 📸 Instagram: `YOUR_IG`
-
-> Ganti tiga placeholder di atas dengan kontak asli kamu. Disarankan tidak memajang nomor WA langsung di profil publik.
+- 📧 Email: `trezapam@gmail.com`
+- 💼 LinkedIn: `https://www.linkedin.com/in/treza-pamungkas/`
+- 📸 Instagram: `https://www.instagram.com/trezapmngks_/`
 
 ---
 
